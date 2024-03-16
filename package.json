@@ -1,0 +1,19 @@
+{
+  "name": "rrlol45redg_tea",
+  "version": "1.0.0",
+  "description": "testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orufope34/rrlol45redg_tea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orufope34/rrlol45redg_tea/issues"
+  },
+  "homepage": "https://github.com/orufope34/rrlol45redg_tea#readme"
+}
