@@ -8,7 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/orufope34/rrlol45redg_tea.git"
+    "url": "https://github.com/orufope34/rrlol45redg_tea.git"
+  },"dependencies": {
+    "earn_378_tea": "1.0.0",
+    "application787": "1.0.0",
+    "sasuke-tea-app": "1.0.0",
+    "cm606tea-tea": "1.0.0",
+    "tea4344ea-tomera": "1.0.0",
+    "tea55loerder": "0.1.4"
   },
   "author": "",
   "license": "ISC",
